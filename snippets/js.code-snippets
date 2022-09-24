@@ -1,0 +1,10 @@
+{
+    "humberto-luciano helloworld snippets":{
+        "prefix": "hello",
+        "body":[
+            "// CRIADO NOSSO PRMEIRO SNIPPETS JAVASCRIPT",
+            "console.log('hello world');"
+        ],
+        "description": "humberto luciano hello world"
+    }
+}

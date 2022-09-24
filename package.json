@@ -1,0 +1,25 @@
+{
+  "name": "hello-snippets-humberto08",
+  "displayName": "Hello World Snippets",
+  "version": "1.0.0",
+  "description": "",
+  "icon": "imagens/my-snippets.jpg",
+  "publisher": "humberto08-snippets",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "keywords": [
+    "snippets",
+    "humberto-luciano",
+    "hello world snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/js.code-snippets"
+      }
+    ]
+  }
+  
+}
